@@ -5,13 +5,10 @@ here is a list of all the vulnerabilities which we have intentionally kept and w
 to be found and reported by you:
 
 **SQL Injection**,   
-**Reflected and Stored Cross Site Scripting  
-
-Insecure Direct Object Reference  
-
-
-Rate Limiting Issues
-Insecure File Uploads
+**Reflected and Stored Cross Site Scripting** 
+**Insecure Direct Object Reference**   
+**Rate Limiting Issues**  
+**Insecure File Uploads**
 Client Side Filter Bypass
 Server Misconfigurations
 Components with Known Vulnerabilities
