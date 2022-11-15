@@ -4,9 +4,12 @@ This is my Hacking project to provided by Internshala and I'm solve or Find maxi
 here is a list of all the vulnerabilities which we have intentionally kept and which are supposed
 to be found and reported by you:
 
-**SQL Injection**
-Reflected and Stored Cross Site Scripting
-Insecure Direct Object Reference
+**SQL Injection**,   
+**Reflected and Stored Cross Site Scripting  
+
+Insecure Direct Object Reference  
+
+
 Rate Limiting Issues
 Insecure File Uploads
 Client Side Filter Bypass
@@ -20,4 +23,4 @@ Open Redirection
 Bruteforce Exploitation
 Command Execution Vulnerability
 Forced Browsing Flaws
-Cross-Site Request Forgery
+Cross-Site Request Forgery**
