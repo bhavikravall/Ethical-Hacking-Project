@@ -1,0 +1,8 @@
+when we show our profile and edit them we show  a url like this :
+
+url : http://13.233.94.117/profile/16/edit/
+
+so here you see in this url 16 we just took the number 16 to 15 and we show other user's details
+
+
+parameter : GET Based

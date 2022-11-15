@@ -1,0 +1,3 @@
+when we post the review and we put  any scripts that is works 
+
+parameter : <script>alert(1)</script>

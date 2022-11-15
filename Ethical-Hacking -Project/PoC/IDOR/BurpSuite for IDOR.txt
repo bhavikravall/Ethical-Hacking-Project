@@ -1,0 +1,19 @@
+now first on the burp suite and on the intercept and capture the edit request and 
+
+parameter : GET /profile/16/edit/ HTTP/1.1
+
+now send the request to the intruder 
+
+and set the target like 
+
+parameter : GET /profile/§16§/edit/ HTTP/1.1
+
+and set payload to the number and from : 01
+                                   To  : 20 
+
+and make step 1 
+
+and start attack
+  
+the valid response give the value 200 
+

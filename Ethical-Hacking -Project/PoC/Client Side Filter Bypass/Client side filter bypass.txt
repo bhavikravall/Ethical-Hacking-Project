@@ -1,0 +1,7 @@
+Client side filter bypass
+
+first you turn on intercept on burpsuite and then open the profile edit and just tap update profile
+
+then send to the request on the repeater and turn off the intercept now we have the user edit data
+
+if we now go to the reapeater and update the data then its direct change the data of the users accoun.

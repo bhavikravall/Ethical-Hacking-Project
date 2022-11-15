@@ -1,0 +1,10 @@
+we use the DirBuster tool and we found some amazing dictionary and here we found 
+ /userlist.txt/
+
+ who disclous the sellers username and password
+
+ step -1 
+
+ now using this data we can enter the seller page and access any product to delete or add or change the price of them
+
+ 

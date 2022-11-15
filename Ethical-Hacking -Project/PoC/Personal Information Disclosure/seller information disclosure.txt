@@ -1,0 +1,4 @@
+when we click on seller info in the product we show
+
+they Disclose the seller personal information 
+
